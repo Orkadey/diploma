@@ -104,7 +104,7 @@ CPU архитектуры x86 изначально не были предназ
 
 Технология Intel VT-x вводит две новых инструкции - VMLAUNCH и VMRESUME - включение переключения в режим VMX non-root operation, которое называется "VM Entry". Главная роль KVM заключается в обработке переключения VM Exit и VM Entry.
 
-![KVM Intel](https://github.com/Orkadey/diploma/tree/master/pictures/kvm_intel.png)
+![alt text](https://github.com/Orkadey/diploma/tree/master/pictures/kvm_intel.png)
 
 #### Использование KVM в QEMU
 
